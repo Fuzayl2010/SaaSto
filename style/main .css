@@ -140,10 +140,10 @@ h1 {
   text-align: center;
   color: #333; /* Dark gray text color */
   line-height: 1.2; /* Adjust line height for spacing between lines */
-  padding-top: 2420px
+  padding-top: 3420px
 }
 
-p{
+.pp{
   width: 592px;
   height: 72px;
   font-size: 18px; /* Adjust font size as needed */
@@ -155,6 +155,7 @@ padding-bottom: 68px;
 }
 
 .header-content-button{
+  padding-top: 60px;
   margin-top: 68px;
   background: #FF553E;
  display: flex;
@@ -227,4 +228,142 @@ h3{
   display: flex;
   align-items: center;
   justify-content: center;
+
+}
+
+.div{
+
+}
+
+.containerr {
+   /* Birinchi background rasmi */
+  width: 470px; /* Elementning kengligi */
+  height: 608px; /* Elementning balandligi */
+  margin: 0 auto; /* Elementlar markazga tushirilishi */
+  background-color: #ffffff; /* Elementning rangi */
+  padding: 20px; /* Elementning ichki bo'shlig'i */
+  border-radius: 110px; /* Elementning radiusi */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Elementning yorug'lik effekti */
+}
+
+h4 {
+  padding-top: 64px;
+  text-align: center;
+  color: #000000; /* Sarlavha rangi */
+  font-weight: 600; /* Sarlavha shrift og'irligi */
+  font-size: 48px; /* Sarlavha shrift o'lchami */
+}
+
+.p {
+  padding-top: 56px;
+  text-align: center;
+  color: #FF553E; /* Matn rangi */
+  line-height: 1.6; /* Matn qatorlari orasi masofasi */
+  font-size: 28px; /* Matn shrift o'lchami */
+}
+
+.button {
+  display: block;
+  padding-left: 590px;
+  text-align: center;
+  margin: auto;
+  /* Tugma tarzda chiqish */
+  width: 240px; /* Tugma kengligi */
+  height: 76px; /* Tugma balandligi */
+  padding: 20px 20px; /* Tugma ichki bo'shlig'i */
+  background-color: #FF553E; /* Tugma fon rangi */
+  color: #ffffff; /* Tugma matn rangi */
+  border: none; /* Tugma chegara yo'qotish */
+  border-radius: 55px; /* Tugma radiusi */
+  cursor: pointer; /* Ko'rsatkichga o'zgarish */
+  transition: background-color 0.3s; /* Animatsiya o'tkazish tezligi */
+}
+
+.button:hover {
+  background-color: #CC442E; /* Tugma fon rangi hover holatida */
+}
+
+.ppp{
+  padding-bottom:64px ;
+  padding-top: 20px;
+  text-align: center;
+  color: #FF553E; /* Matn rangi */
+  line-height: 1.6; /* Matn qatorlari orasi masofasi */
+  font-size: 28px; /* Matn shrift o'lchami */
+}
+
+.img-6{
+
+display: block;
+margin: 34px auto;
+  width: 141px;
+  height: 64px;
+}
+
+
+
+
+.containerrr {
+ /* Birinchi background rasmi */
+  width: 470px; /* Elementning kengligi */
+  height: 608px; /* Elementning balandligi */
+  margin: 0 auto; /* Elementlar markazga tushirilishi */
+  background-color: #FF553E; /* Elementning rangi */
+  padding: 20px; /* Elementning ichki bo'shlig'i */
+  border-radius: 110px; /* Elementning radiusi */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Elementning yorug'lik effekti */
+}
+
+.h5 {
+  padding-top: 64px;
+  text-align: center;
+  color: #fff; /* Sarlavha rangi */
+  font-weight: 600; /* Sarlavha shrift og'irligi */
+  font-size: 48px; /* Sarlavha shrift o'lchami */
+}
+
+.div-p {
+  padding-top: 56px;
+  text-align: center;
+  color: #fff; /* Matn rangi */
+  line-height: 1.6; /* Matn qatorlari orasi masofasi */
+  font-size: 28px; /* Matn shrift o'lchami */
+}
+
+.div-button {
+  display: block;
+  padding-left: 590px;
+  text-align: center;
+  margin: auto;
+  /* Tugma tarzda chiqish */
+  width: 240px; /* Tugma kengligi */
+  height: 76px; /* Tugma balandligi */
+  padding: 20px 20px; /* Tugma ichki bo'shlig'i */
+  background-color: #fff; /* Tugma fon rangi */
+  color: #FF553E; /* Tugma matn rangi */
+  border: none; /* Tugma chegara yo'qotish */
+  border-radius: 55px; /* Tugma radiusi */
+  cursor: pointer; /* Ko'rsatkichga o'zgarish */
+  transition: background-color 0.3s; /* Animatsiya o'tkazish tezligi */
+}
+
+.button:hover {
+  background-color: #CC442E; /* Tugma fon rangi hover holatida */
+}
+
+.div-ppp{
+  padding-bottom:64px ;
+  padding-top: 20px;
+  text-align: center;
+  color: #FFf; /* Matn rangi */
+  line-height: 1.6; /* Matn qatorlari orasi masofasi */
+  font-size: 28px; /* Matn shrift o'lchami */
+}
+
+.img-6{
+
+display: block;
+margin: 34px auto;
+  width: 141px;
+  height: 64px;
 }
