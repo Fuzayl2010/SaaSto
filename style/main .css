@@ -364,3 +364,10 @@ margin: 34px auto;
   width: 141px;
   height: 64px;
 }
+
+.div{
+  padding-top: 80px ;
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px
+}
